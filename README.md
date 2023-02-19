@@ -1,5 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandoun&count_private=true&show_icons=true&theme=radical&custom_title=Sandouns+Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandoun&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only&custom_title=Sandouns+Stats)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandoun&layout=compact&theme=radical&card_width=417)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandoun&count_private=true&show_icons=true&theme=default#gh-light-mode-only&custom_title=Sandouns+Stats)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandoun&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandoun&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
