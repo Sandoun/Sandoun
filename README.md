@@ -17,7 +17,10 @@ The knowledge and love to technology was still gathered and keeps growing. 😎
 
 So anyways here are some quick impressions of my work.
 
-# Professional Environment Developments
+<details>
+<summary>Click here to expand</summary>
+  
+ # Professional Environment Developments
 
 > Not all projects are listed here and proprietary details are left out due to me not possessing the required licenses  
 
@@ -98,4 +101,8 @@ Features:
 - autoplay, never let your queue stop playing
 
 <img src="https://user-images.githubusercontent.com/72068105/222497850-17b40319-b0cc-4ba3-81ad-db695644c534.png" width="50%"/>
+  
+</details>
+
+
 
