@@ -102,6 +102,16 @@ Features:
 
 <img src="https://user-images.githubusercontent.com/72068105/222497850-17b40319-b0cc-4ba3-81ad-db695644c534.png" width="50%"/>
   
+## Procedural Planets 
+
+This is a project of mine playing around with some procedural mesh generation and shading in THREE.js.
+It was inspired by the work of Sebastian Lague.
+He made a video series about procedural planets in unity, [watch it here](https://www.youtube.com/watch?v=QN39W020LqU&list=PLFt_AvWsXl0cONs3T0By4puYy6GM22ko8&ab_channel=SebastianLague)
+  
+My repo can be found [here](https://github.com/Sandoun/ProceduralPlanets)
+  
+<img src="https://user-images.githubusercontent.com/72068105/222512593-cb08cca7-9f3f-47d9-84be-ef6756e36ad7.png" width="50%"/>
+
 </details>
 
 
