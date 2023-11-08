@@ -10,8 +10,7 @@
 
 My name is Felix, 
 
-I am a self taught software engineer from Germany with a background in electrical engineering, that started learning Javascript and C# at the age of 16.
-So anyways here are some quick impressions of my work.
+I am a self taught software engineer from Germany with a background in electrical engineering 💻
 
 <details>
 <summary>Click here to expand</summary>
