@@ -33,7 +33,7 @@ Features:
 - modern themed UI with only the necessary inputs to keep it clean
 - larger buttons and intuitive handling of the workflow
 - completely written in .NET 6
-- interfaces with panasonic PLCs using [my library](https://github.com/WOmed/MewtocolNet)
+- interfaces with panasonic PLCs using [my library](https://github.com/OpenLogics/MewtocolNet)
 - revamped TCP/IP backend
 - multiple color themes
 
